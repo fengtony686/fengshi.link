@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/CSoNet-2021
 excerpt:
 date: 2021-07-09
-venue: 'CSoNet'
+venue: 'CSoNet 2021 (Best Paper Winner)'
 paperurl: 'https://arxiv.org/pdf/2107.04224.pdf'
 citation: 'Feng S, Chen W. Causal Inference for Influence Propagation--Identifiability of the Independent Cascade Model[J]. arXiv preprint arXiv:2107.04224, 2021.'
 ---
