@@ -59,8 +59,16 @@
 <loc>http://localhost:4000/markdown_generator/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/files/BestPaperAwardCSoNET2021.pdf</loc>
+<lastmod>2021-12-03T20:13:41-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/CSoNet_2021_Presentation.pdf</loc>
+<lastmod>2021-12-03T20:16:12-08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/files/fs_resume.pdf</loc>
-<lastmod>2021-11-17T04:02:33-08:00</lastmod>
+<lastmod>2021-12-03T20:16:24-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/talkmap/map.html</loc>

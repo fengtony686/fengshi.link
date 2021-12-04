@@ -35,7 +35,7 @@ Publications
 
 Awards
 ======
-* Best Paper Award, CSoNet 2021, 2021.11
+* [Best Paper Award](/files/BestPaperAwardCSoNET2021.pdf), CSoNet 2021, 2021.11
 * Social Practice Excellence Award, Tsinghua University, 2021.10
 * Science and Technology Innovation Excellence Award, Tsinghua University, 2021.10
 * Top Grade Prize of 39th Challenge Cup, Tsinghua University, 2020.4
