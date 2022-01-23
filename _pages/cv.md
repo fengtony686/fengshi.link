@@ -19,7 +19,7 @@ Experiences
 * 2022.2 - 2022.8 (expected): Research Assistant
   * Harvard SEAS
   * Supervisor: Prof. [Yiling Chen](https://yiling.seas.harvard.edu/)
-* 2020.10 - present: Research Assistant
+* 2020.10 - 2022.1: Research Assistant
   * Microsoft Research Asia
   * Supervisor: Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/)
 * 2018.12 - 2019.5: Mathematics Contestants
