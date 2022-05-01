@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-I am originally from Hubei, a central province in China. Now I am a third-year undergraduate student at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University  (known as Yao Class). 
-I was a member of Chinese national mathematical olympiad team and participated in *All-Russian Mathematical Olympiad 2019* held in Perm, Russia. 
+I am originally from Hubei, a central province in China. Now I am a third-year undergraduate student at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University  (known as Yao Class).  
 
 I have been working as a Research Intern at [Microsoft Research Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/), where I was very fortunate to be advised by [Prof. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/). We have done exciting works at the interface between causal inference, online learning and social networks. One of our thesis has been received the sole **Best Paper Award** in the 10th International Conference on Computational Data and Social Networks!
 

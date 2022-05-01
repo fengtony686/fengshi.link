@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shi Feng"
 title_separator          : "-"
 name                     : &name "Shi Feng"
-description              : &description "A third-year undergraduate student in Yao class"
+description              : &description "Undergraduate at Tsinghua University"
 url                      : https://fengshi.link # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Shi Feng"
   avatar           : "me.jpg"
-  bio              : "A third year undergraduate student from Yao's class"
+  bio              : "Undergraduate, Yao Class, Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7XxWCegAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=7XxWCegAAAAJ"
   email            : "fengs19@mails.tsinghua.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Shi-Feng-30"
+  researchgate     : #"https://www.researchgate.net/profile/Shi-Feng-30"
   uri              :
   bitbucket        :
   codepen          :
