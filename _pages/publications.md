@@ -15,6 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Causal Inference for Influence Propagation – Identifiability of the Independent Cascade Model
-Shi Feng, Wei Chen
+[Causal Inference for Influence Propagation – Identifiability of the Independent Cascade Model](https://link.springer.com/chapter/10.1007/978-3-030-91434-9_2)\\
+Shi Feng, Wei Chen\\
 CSoNet 2021 Best Paper
+[ArXiv Version](https://arxiv.org/abs/2107.04224) | [Slides](/files/CSoNet_2021_Presentation.pdf) | [Award](/files/BestPaperAwardCSoNET2021.pdf)
