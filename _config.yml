@@ -73,15 +73,15 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :   # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  286630035
+    tracking_id          : 
 
 
 # Site Author
 author:
   name             : "Shi Feng"
-  avatar           : "me.jpeg"
+  avatar           : "me.jpg"
   bio              : "Undergraduate, Yao Class, Tsinghua University"
   location         : "Beijing, China"
   employer         :
