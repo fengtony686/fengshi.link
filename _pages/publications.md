@@ -25,7 +25,7 @@ In submission\\
 [Combinatorial Causal Bandits](/files/ccb.pdf)\\
 **Shi Feng**, Wei Chen\\
 In submission\\
-[[ArXiv Version](https://arxiv.org/abs/2206.01995)]
+[[ArXiv Version](https://arxiv.org/abs/2206.01995)] [[Code](https://github.com/fengtony686/CCB)]
 
 
 [Causal Inference for Influence Propagation – Identifiability of the Independent Cascade Model](/files/ciip.pdf)\\
