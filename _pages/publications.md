@@ -19,7 +19,7 @@ author_profile: true
 Peer Prediction for Learning Agents\\
 **Shi Feng**, Fang-Yi Yu, Yiling Chen\\
 In submission\\
-[[Code](https://github.com/fengtony686/peer-prediction-convergence)]
+[[ArXiv Version](https://arxiv.org/abs/2208.04433)] [[Code](https://github.com/fengtony686/peer-prediction-convergence)]
 
 
 [Combinatorial Causal Bandits](/files/ccb.pdf)\\
