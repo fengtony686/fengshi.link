@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 
-Peer Prediction for Learning Agents\\
+[Peer Prediction for Learning Agents](/files/peer_prediction.pdf)\\
 **Shi Feng**, Fang-Yi Yu, Yiling Chen\\
 In submission\\
 [[ArXiv Version](https://arxiv.org/abs/2208.04433)] [[Code](https://github.com/fengtony686/peer-prediction-convergence)]
