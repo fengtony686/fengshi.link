@@ -9,14 +9,20 @@ redirect_from:
 ---
 
 
-I am originally from Hubei, a central province in China. Now I am a third-year undergraduate student at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University (known as Yao Class).  
+<!-- I am originally from Hubei, a central province in China. Now I am a third-year undergraduate student at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University (known as Yao Class).   -->
 
-I have been working as a Research Intern at [Microsoft Research Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/), where I was very fortunate to be advised by [Prof. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/). We have done exciting works at the interface between causal inference, online learning and social networks. One of our thesis has received sole **Best Paper Award** in the 10th International Conference on Computational Data and Social Networks!
+I was born and raised in Hubei, a central province in China, until I came to Beijing for further education. Now I am a fourth-year undergraduate at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, which is also known as the Yao Class.
 
-I was a research intern at [Harvard SEAS](https://www.seas.harvard.edu/) where I was very fortunate to be advised by [Prof. Yiling Chen](https://yiling.seas.harvard.edu/). Besides, [Prof. Fang-Yi Yu](http://www-personal.umich.edu/~fayu/) gave me lots of helpful advices and worked with us during this internship.  
+<!-- I have been working as a Research Intern at [Microsoft Research Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/), where I was very fortunate to be advised by [Prof. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/). We have done exciting works at the interface between causal inference, online learning and social networks. One of our thesis has received sole **Best Paper Award** in the 10th International Conference on Computational Data and Social Networks! -->
+
+I have been working as a Research Intern at [Microsoft Research Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/) since October 2020, where I was very fortunate to be advised by [Prof. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/). We have done exciting works at the interface between causal inference, online learning and social networks. One of our theses has received sole **Best Paper Award** in the 10th International Conference on Computational Data and Social Networks.
+
+<!-- I was a research intern at [Harvard SEAS](https://www.seas.harvard.edu/) where I was very fortunate to be advised by [Prof. Yiling Chen](https://yiling.seas.harvard.edu/). Besides, [Prof. Fang-Yi Yu](http://www-personal.umich.edu/~fayu/) gave me lots of helpful advices and worked with us during this internship.   -->
+
+I also have an informative research experience at [Harvard SEAS](https://www.seas.harvard.edu/) with [Prof. Yiling Chen](https://www.seas.harvard.edu/) as my mentor. Meanwhile, [Prof. Fang-Yi Yu](http://www-personal.umich.edu/~fayu/), who worked along us during my time at SEAS, also offered me advice of great value to my academic pursuit and career path.
 
 <!-- Simultaneously, I have won the best paper award in *the 10th International Conference on Computational Data and Social Networks*. -->
 
 <!-- My research interests are mainly causal inference theory, the application of causal inference in social network problems, algorithmic game theory, and online learning. Also, I am familiar with machine learning theory, including reinforcement learning and deep learning. -->
 
-My research until now involves online learning, social networks and algorithmic game theory. Besides, I have a broad interest in theoretical computer science, especially in deep learning theory, reinforcement learning theory, and causality. 
+My research up to this day involves online learning, social networks and algorithmic game theory. Also, I have a broad interest in theoretical computer science, especially in deep learning theory, reinforcement learning theory, and causality.
