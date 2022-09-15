@@ -18,14 +18,8 @@ author_profile: true
 
 [Peer Prediction for Learning Agents](/files/peer_prediction.pdf)\\
 **Shi Feng**, Fang-Yi Yu, Yiling Chen\\
-In submission\\
+**NeurIPS 2022**\\
 [[ArXiv Version](https://arxiv.org/abs/2208.04433)] [[Code](https://github.com/fengtony686/peer-prediction-convergence)]
-
-
-[Combinatorial Causal Bandits](/files/ccb.pdf)\\
-**Shi Feng**, Wei Chen\\
-In submission\\
-[[ArXiv Version](https://arxiv.org/abs/2206.01995)] [[Code](https://github.com/fengtony686/CCB)]
 
 
 [Causal Inference for Influence Propagation – Identifiability of the Independent Cascade Model](/files/ciip.pdf)\\
@@ -33,3 +27,7 @@ In submission\\
 **CSoNet 2021 Best Paper**\\
 [[Publication](https://doi.org/10.1007/978-3-030-91434-9_2)] [[ArXiv Version](https://arxiv.org/abs/2107.04224)] [[Slides](/files/CSoNet_2021_Presentation.pdf)] [[Award](/files/BestPaperAwardCSoNET2021.pdf)]
 
+[Combinatorial Causal Bandits](/files/ccb.pdf)\\
+**Shi Feng**, Wei Chen\\
+In submission\\
+[[ArXiv Version](https://arxiv.org/abs/2206.01995)] [[Code](https://github.com/fengtony686/CCB)]
