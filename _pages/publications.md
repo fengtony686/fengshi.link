@@ -19,7 +19,7 @@ author_profile: true
 [Peer Prediction for Learning Agents](/files/peer_prediction.pdf)\\
 **Shi Feng**, Fang-Yi Yu, Yiling Chen\\
 **NeurIPS 2022**\\
-[[ArXiv Version](https://arxiv.org/abs/2208.04433)] [[Code](https://github.com/fengtony686/peer-prediction-convergence)]
+[[ArXiv Version](https://arxiv.org/abs/2208.04433)] [[Code](https://github.com/fengtony686/peer-prediction-convergence)] [[Slides](/files/peer_prediction_ppt.pptx)]
 
 
 [Causal Inference for Influence Propagation – Identifiability of the Independent Cascade Model](/files/ciip.pdf)\\
