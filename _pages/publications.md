@@ -15,6 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+[Combinatorial Causal Bandits](/files/ccb.pdf)\\
+**Shi Feng**, Wei Chen\\
+**AAAI 2023**\\
+[[ArXiv Version](https://arxiv.org/abs/2206.01995)] [[Code](https://github.com/fengtony686/CCB)]
 
 [Peer Prediction for Learning Agents](/files/peer_prediction.pdf)\\
 **Shi Feng**, Fang-Yi Yu, Yiling Chen\\
@@ -26,8 +30,3 @@ author_profile: true
 **Shi Feng**, Wei Chen\\
 **CSoNet 2021 Best Paper**\\
 [[Publication](https://doi.org/10.1007/978-3-030-91434-9_2)] [[ArXiv Version](https://arxiv.org/abs/2107.04224)] [[Slides](/files/CSoNet_2021_Presentation.pdf)] [[Award](/files/BestPaperAwardCSoNET2021.pdf)]
-
-[Combinatorial Causal Bandits](/files/ccb.pdf)\\
-**Shi Feng**, Wei Chen\\
-In submission\\
-[[ArXiv Version](https://arxiv.org/abs/2206.01995)] [[Code](https://github.com/fengtony686/CCB)]
