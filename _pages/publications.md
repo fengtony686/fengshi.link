@@ -28,7 +28,7 @@ Proceedings of the 36th Conference on Neural Information Processing Systems (Neu
 
 [Causal Inference for Influence Propagation – Identifiability of the Independent Cascade Model](/files/ciip.pdf)\\
 **Shi Feng**, Wei Chen\\
-Proceedings of the 10th International Conference on Computational Social Networks (CSoNet'2021) | November 2021\\
+Proceedings of the 10th International Conference on Computational Social Networks (CSoNet) | November 2021\\
 🏆 Winner of the sole Best Paper Award\\
 [[Publication](https://doi.org/10.1007/978-3-030-91434-9_2)] [[ArXiv Version](https://arxiv.org/abs/2107.04224)] [[Slides](/files/CSoNet_2021_Presentation.pdf)] [[Award](/files/BestPaperAwardCSoNET2021.pdf)]
 
