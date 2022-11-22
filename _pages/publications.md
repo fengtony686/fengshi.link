@@ -17,18 +17,19 @@ author_profile: true
 
 [Combinatorial Causal Bandits](/files/ccb.pdf)\\
 **Shi Feng**, Wei Chen\\
-**AAAI 2023**\\
+Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI) | February 2023\\
 [[ArXiv Version](https://arxiv.org/abs/2206.01995)] [[Code](https://github.com/fengtony686/CCB)]
 
 [Peer Prediction for Learning Agents](/files/peer_prediction.pdf)\\
 **Shi Feng**, Fang-Yi Yu, Yiling Chen\\
-**NeurIPS 2022**\\
+Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS) | November 2022\\
 [[ArXiv Version](https://arxiv.org/abs/2208.04433)] [[Code](https://github.com/fengtony686/peer-prediction-convergence)] [[Slides](/files/peer_prediction_ppt.pptx)]
 
 
 [Causal Inference for Influence Propagation – Identifiability of the Independent Cascade Model](/files/ciip.pdf)\\
 **Shi Feng**, Wei Chen\\
-**CSoNet 2021 Best Paper**\\
+Proceedings of the 10th International Conference on Computational Social Networks (CSoNet'2021) | November 2021\\
+🏆 Winner of the sole Best Paper Award\\
 [[Publication](https://doi.org/10.1007/978-3-030-91434-9_2)] [[ArXiv Version](https://arxiv.org/abs/2107.04224)] [[Slides](/files/CSoNet_2021_Presentation.pdf)] [[Award](/files/BestPaperAwardCSoNET2021.pdf)]
 
 [A Truthful Multi-Agent Owner-Assisted Scoring Mechanism](/files/owner_assist.pdf)\\
