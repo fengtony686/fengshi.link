@@ -32,6 +32,6 @@ Proceedings of the 10th International Conference on Computational Social Network
 🏆 Winner of the sole Best Paper Award\\
 [[Publication](https://doi.org/10.1007/978-3-030-91434-9_2)] [[ArXiv Version](https://arxiv.org/abs/2107.04224)] [[Slides](/files/CSoNet_2021_Presentation.pdf)] [[Award](/files/BestPaperAwardCSoNET2021.pdf)]
 
-[A Truthful Multi-Agent Owner-Assisted Scoring Mechanism](/files/owner_assist.ppt)\\
+[A Truthful Multi-Agent Owner-Assisted Scoring Mechanism](/files/owner_assist.pdf)\\
 **Shi Feng\***, Zimeng Song\*, Yuhao Wang, Weijie Su\\
 Writing in progress.
