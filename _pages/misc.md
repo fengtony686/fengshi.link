@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 I have been a car–fancier since I was a child. As the second author working on the electronic control system, I co-designed a dual-clutch transmission (DCT) for 
-in-wheel motors. Our project won the top grade award in the *39th Challenge Cup at Tsinghua University*. See [here](/files/challenge_cup1_2x.jpg) and [here](/files/challenge_cup2_4x.jpg) for pictures. We were granted two patents with numbers ZL 2021 2 0715932.X and 202110378048.6.
+in-wheel motors. Our project won the top grade award in the *39th Challenge Cup at Tsinghua University*. See [here](/files/challenge_cup1_2x.jpg) and [here](/files/challenge_cup2_4x.jpg) for pictures. We were granted two patents with numbers [CN113153987B](https://patents.google.com/patent/CN113153987B/en) and [CN214946139U](https://patents.google.com/patent/CN214946139U/en).
 
 I enjoy watching and playing soccer. [Here](/files/soccer_4x.jpg) is a post-match group photo. The team I support is [AC Milan](https://www.acmilan.com/en), one of the most incredible teams all over the world.
 
