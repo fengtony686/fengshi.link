@@ -37,5 +37,5 @@ Proceedings of the 10th International Conference on Computational Social Network
 Submitted to Annals of Statistics in plan.
 
 Combinatorial Causal Bandits with Unknown Graph Skeleton\\
-**Nuoya Xiong\***, **Shi Feng\***, Wei Chen\\
+Nuoya Xiong\*, **Shi Feng\***, Wei Chen\\
 Submitted to ICML 2023 in plan.
