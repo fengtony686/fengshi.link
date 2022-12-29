@@ -34,8 +34,8 @@ Proceedings of the 10th International Conference on Computational Social Network
 
 [A Truthful Multi-Agent Owner-Assisted Scoring Mechanism](/files/owner_assist.pdf)\\
 **Shi Feng\***, Zimeng Song\*, Yuhao Wang, Weijie Su\\
-Submitted to Annals of Statistics in plan.
+Will be submitted to Annals of Statistics in plan.
 
 Combinatorial Causal Bandits with Unknown Graph Skeleton\\
 Nuoya Xiong\*, **Shi Feng\***, Wei Chen\\
-Submitted to ICML 2023 in plan.
+Will be submitted to ICML 2023 in plan.
