@@ -18,7 +18,7 @@ author_profile: true
 [Combinatorial Causal Bandits](/files/ccb.pdf)\\
 **Shi Feng**, Wei Chen\\
 Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI) | February 2023\\
-[[ArXiv Version](https://arxiv.org/abs/2206.01995)] [[Code](https://github.com/fengtony686/CCB)]
+[[ArXiv Version](https://arxiv.org/abs/2206.01995)] [[Code](https://github.com/fengtony686/CCB)] [[Slides](/files/ccb.pptx)]
 
 [Peer Prediction for Learning Agents](/files/peer_prediction.pdf)\\
 **Shi Feng**, Fang-Yi Yu, Yiling Chen\\
@@ -34,4 +34,8 @@ Proceedings of the 10th International Conference on Computational Social Network
 
 [A Truthful Multi-Agent Owner-Assisted Scoring Mechanism](/files/owner_assist.pdf)\\
 **Shi Feng\***, Zimeng Song\*, Yuhao Wang, Weijie Su\\
+Writing in progress.
+
+Combinatorial Causal Bandits with Unknown Graph Skeleton\\
+**Nuoya Xiong\***, **Shi Feng\***, Wei Chen\\
 Writing in progress.
