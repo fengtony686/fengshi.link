@@ -11,8 +11,10 @@ author_profile: true
 
 [About Me](https://fengshi.link/)
 
+[CV](https://fengshi.link/files/CV.pdf)
+
 [Publications](https://fengshi.link/publications/)
 
-[CV](https://fengshi.link/files/CV.pdf)
+[Talks](https://fengshi.link/talks/)
 
 [Miscellaneous](https://fengshi.link/misc/)
