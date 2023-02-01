@@ -25,4 +25,4 @@ Virtual Presentation of the 36th Conference on Neural Information Processing Sys
 Yao Class Seminar #33 | September 2022
 
 [Causal Inference for Influence Propagation - Identifiability of the Independent Cascade Model](/files/CSoNet_2021_Presentation.pdf)\\
-Virtual Presentation of the 10th International Conference on Computational Social Networks (CSoNet)
+Virtual Presentation of the 10th International Conference on Computational Social Networks (CSoNet) | November 2021
