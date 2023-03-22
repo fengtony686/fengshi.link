@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
+[Large Language Models: Current Theoretical Analysis and Future Directions](/files/msra_theory_seminar_llm.pptx)\\
+Microsoft Research Asia Theory Seminar | March 2023 
+
+[Combinatorial Causal Bandits](https://www.bilibili.com/video/BV19L411Z7rW)\\
+Microsoft Research Asia Online Paper Sharing | March 2023
+
 [Combinatorial Causal Bandits](https://youtu.be/zqYiIjfJ-1I)\\
 Virtual Presentation of the 37th AAAI Conference on Artificial Intelligence (AAAI) | February 2023
 
