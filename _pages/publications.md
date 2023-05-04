@@ -37,7 +37,7 @@ Proceedings of the 10th International Conference on Computational Social Network
 In submission.\\
 [[ArXiv Version](https://arxiv.org/abs/2301.13392)]
 
-<!-- [A Truthful Multi-Agent Owner-Assisted Scoring Mechanism](/files/owner_assist.pdf)\\
+[A Truthful Multi-Agent Owner-Assisted Scoring Mechanism](/files/owner_assist.pdf)\\
 **Shi Feng\***, Zimeng Song\*, Yuhao Wang, Weijie Su\\
-Will be submitted to Annals of Statistics in plan. -->
+In submission.
 
