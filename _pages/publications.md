@@ -23,7 +23,7 @@ Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI) | Febr
 [Peer Prediction for Learning Agents](/files/peer_prediction.pdf)\\
 **Shi Feng**, Fang-Yi Yu, Yiling Chen\\
 Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS) | November 2022\\
-[[ArXiv Version](https://arxiv.org/abs/2208.04433)] [[Code](https://github.com/fengtony686/peer-prediction-convergence)] [[Video](https://slideslive.com/38990006)] [[Slides](/files/peer_prediction_ppt.pptx)] 
+[[Publication](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6e469fbdc43ade121170f61096f4458b-Abstract-Conference.html)] [[ArXiv Version](https://arxiv.org/abs/2208.04433)] [[Code](https://github.com/fengtony686/peer-prediction-convergence)] [[Video](https://slideslive.com/38990006)] [[Slides](/files/peer_prediction_ppt.pptx)] 
 
 
 [Causal Inference for Influence Propagation - Identifiability of the Independent Cascade Model](/files/ciip.pdf)\\

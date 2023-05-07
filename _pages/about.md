@@ -21,7 +21,7 @@ During undergrad, I was extremely fortunate to be advised by kind and inspiring 
 * [Prof. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/), Microsoft Research Asia
 * [Prof. Yiling Chen](https://yiling.seas.harvard.edu/), Harvard University
 * [Prof. Yuhao Wang](https://yuhaow.github.io/), Tsinghua University
-* [Prof. Fang-Yi Yu](http://www-personal.umich.edu/~fayu/), George Mason University
+* [Prof. Fang-Yi Yu](https://cs.gmu.edu/~fangyiyu/), George Mason University
 * [Prof. Weijie Su](http://stat.wharton.upenn.edu/~suw/), University of Pennsylvania
 
 <!-- I have been working as a Research Intern at [Microsoft Research Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/), where I was very fortunate to be advised by [Prof. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/). We have done exciting works at the interface between causal inference, online learning and social networks. One of our thesis has received sole **Best Paper Award** in the 10th International Conference on Computational Data and Social Networks! -->
