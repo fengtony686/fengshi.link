@@ -10,4 +10,4 @@ in-wheel motors. Our project won the top grade award in the *39th Challenge Cup 
 
 I also enjoy playing and watching soccer. I am a member of the IIIS soccer team. [Here](/files/soccer.jpg) is a group photo taken after one game. The team I support is [AC Milan](https://www.acmilan.com/en), one of the most incredible teams all over the world.
 
-When I was in high school, I won the gold medal in the Chinese Mathematical Olympiad 2018 held in Chengdu, China. Therefore, I became one of sixty members of the Chinese national mathematical team. I boast the best score in *All-Russian Mathematical Olympiad 2019* held in Perm, Russia, among all 11th-grade foreign participants. [Here](/files/perm_8x.jpeg) is a photo of the award ceremony.
+When I was in high school, I won the gold medal in the Chinese Mathematical Olympiad 2018 held in Chengdu, China. Therefore, I became one of sixty members of the Chinese national mathematical team. I boast the best score in All-Russian Mathematical Olympiad 2019 held in Perm, Russia, among all 11th-grade foreign participants. [Here](/files/perm_8x.jpeg) is a photo of the award ceremony.
