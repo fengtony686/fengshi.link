@@ -13,9 +13,9 @@ redirect_from:
 
 <!-- I was born and raised in Hubei, a central province in China, until I came to Beijing for further education. I am a fourth-year undergraduate at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, also known as the Yao Class. My research now involves algorithmic game theory, online learning, and social networks. Also, I have a broad interest in theoretical computer science, especially deep learning theory, reinforcement learning theory, and causality. -->
 
-My name is Shi Feng (冯时). I am a fourth-year undergraduate at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, also known as the Yao Class. Starting August 2023, I will be a Ph.D. student at [Harvard John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/), where I will be very fortunately advised by [Prof. Yiling Chen](https://yiling.seas.harvard.edu/). 
+My name is Shi Feng (冯时). I am a fourth-year undergraduate at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, also known as the Yao Class. Starting in August 2023, I will be a Ph.D. student at [Harvard John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/), where I will be very fortunately advised by [Prof. Yiling Chen](https://yiling.seas.harvard.edu/). 
 
-My research interests broadly lie in economics and computer science, including algorithmic game theory, machine learning theory, causality, and network science. Recently, I started to look into the theoretical foundation of large language models (LLM). 
+My research interests broadly lie in economics and computer science, including algorithmic game theory, machine learning theory, causality, and network science. Recently, I started to research the theoretical foundation of large language models (LLM). 
 
 During undergrad, I was extremely fortunate to be advised by kind and inspiring professors. I am always so grateful to them.
 * [Prof. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/), Microsoft Research Asia
