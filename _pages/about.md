@@ -13,16 +13,21 @@ redirect_from:
 
 <!-- I was born and raised in Hubei, a central province in China, until I came to Beijing for further education. I am a fourth-year undergraduate at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, also known as the Yao Class. My research now involves algorithmic game theory, online learning, and social networks. Also, I have a broad interest in theoretical computer science, especially deep learning theory, reinforcement learning theory, and causality. -->
 
-My name is Shi Feng (冯时). I am a fourth-year undergraduate at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, also known as the Yao Class. Starting in August 2023, I will be a Ph.D. student at [Harvard John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/), where I will be very fortunately advised by [Prof. Yiling Chen](https://yiling.seas.harvard.edu/). 
 
-My research interests broadly lie in economics and computer science, including algorithmic game theory, machine learning theory, causality, and network science. Recently, I started to research the theoretical foundation of large language models (LLM). 
+My name is Shi Feng (冯时). As of August 2023, I am pursuing my Ph.D. at the [Harvard John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/). I am privileged to be advised by  [Prof. Yiling Chen](https://yiling.seas.harvard.edu/). Prior to this, I earned my bachelor's degree from the [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University, commonly referred to as the Yao Class.
 
-During undergrad, I was extremely fortunate to be advised by kind and inspiring professors. I am always so grateful to them.
+I have a broad research interest in the intersection of economics and computer science. This includes topics such as algorithmic game theory, machine learning theory, causality, and network science. Recently, my focus has shifted towards understanding the theoretical foundations of large language models (LLM).
+
+During my undergraduate years, I was immensely fortunate to receive guidance from several kind and inspiring professors. I am deeply thankful to them:
+
 * [Prof. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/), Microsoft Research Asia
 * [Prof. Yiling Chen](https://yiling.seas.harvard.edu/), Harvard University
 * [Prof. Yuhao Wang](https://yuhaow.github.io/), Tsinghua University
 * [Prof. Fang-Yi Yu](https://cs.gmu.edu/~fangyiyu/), George Mason University
 * [Prof. Weijie Su](http://stat.wharton.upenn.edu/~suw/), University of Pennsylvania
+
+P.S. I am currently co-leading a graduate school application team with some of my peers. We proudly offer FREE services to extraordinary students! Please refer to our [brochure](/files/GRAD_SCHOOL_APPLICATION.pdf).
+
 
 <!-- I have been working as a Research Intern at [Microsoft Research Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/), where I was very fortunate to be advised by [Prof. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/). We have done exciting works at the interface between causal inference, online learning and social networks. One of our thesis has received sole **Best Paper Award** in the 10th International Conference on Computational Data and Social Networks! -->
 
