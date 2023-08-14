@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shi Feng"
 title_separator          : "-"
 name                     : &name "Shi Feng"
-description              : &description "Undergraduate at Tsinghua University"
+description              : &description "PhD Student at Harvard University"
 url                      : https://fengshi.link # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Shi Feng"
   avatar           : "me.jpg"
-  bio              : "Undergraduate, Yao Class, Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "PhD Student, Computer Science, Harvard University"
+  location         : "MA, US"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=7XxWCegAAAAJ"
