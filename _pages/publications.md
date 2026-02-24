@@ -57,5 +57,5 @@ Siwei Wang\*, Yifei Shen\*, **Shi Feng**, Haoran Sun, Shang-Hua Teng, Wei Chen\\
 
 <br>
 
-<small>\* Equal contribution</small>
+<small>\* denotes equal contribution or alphabetical order</small>
 
