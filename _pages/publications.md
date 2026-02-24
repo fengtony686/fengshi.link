@@ -15,29 +15,51 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-[Combinatorial Causal Bandits](/files/ccb.pdf)\\
+Peer-Predictive Self-Training for Language Models\\
+**Shi Feng***, Hanlin Zhang*, Sham Kakade, Yiling Chen\\
+In submission to **ICML 2026**\\
+
+Information Elicitation by Ordinal Agreement\\
+Yiling Chen*, **Shi Feng***, Grant Schoenebeck*, Fang-Yi Yu*\\
+In submission to **EC 2026**\\
+
+[Benefits and Pitfalls of Reinforcement Learning for Language Model Planning: A Theoretical Perspective](https://arxiv.org/abs/2509.22613)\\
+Siwei Wang*, Yifei Shen*, Haoran Sun*, **Shi Feng***, Shang-Hua Teng, Li Dong, Yaru Hao, Wei Chen\\
+**The Fourteenth International Conference on Learning Representations (ICLR 2026)**\\
+[[ArXiv](https://arxiv.org/abs/2509.22613)]\\
+
+[Data Reliability Scoring](https://arxiv.org/abs/2510.17085)\\
+Yiling Chen*, **Shi Feng***, Paul Kattuman*, Fang-Yi Yu*\\
+**The Twenty-Sixth ACM Conference on Economics and Computation (EC 2025) Poster Session**\\
+[[ArXiv](https://arxiv.org/abs/2510.17085)]\\
+
+[Carrot and Stick: Eliciting Comparison Data and Beyond](https://arxiv.org/abs/2410.23243)\\
+Yiling Chen*, **Shi Feng***, Fang-Yi Yu*\\
+**The 38th Conference on Neural Information Processing Systems (NeurIPS 2024)**\\
+[[ArXiv](https://arxiv.org/abs/2410.23243)]\\
+
+[ALPINE: Unveiling The Planning Capability of Autoregressive Learning in Language Models](https://arxiv.org/abs/2405.09220)\\
+Siwei Wang*, Yifei Shen*, **Shi Feng**, Haoran Sun, Shang-Hua Teng, Wei Chen\\
+**The 38th Conference on Neural Information Processing Systems (NeurIPS 2024)**\\
+[[ArXiv](https://arxiv.org/abs/2405.09220)]\\
+
+[Combinatorial Causal Bandits without Graph Skeleton](https://arxiv.org/abs/2301.13392)\\
+**Shi Feng***, Nuoya Xiong*, Wei Chen\\
+**The 16th Asian Conference on Machine Learning (ACML 2024)**\\
+[[ArXiv](https://arxiv.org/abs/2301.13392)]\\
+
+[Combinatorial Causal Bandits](https://arxiv.org/abs/2206.01995)\\
 **Shi Feng**, Wei Chen\\
-Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI) | February 2023\\
-[[Publication](https://ojs.aaai.org/index.php/AAAI/article/view/25917)] [[ArXiv Version](https://arxiv.org/abs/2206.01995)] [[Code](https://github.com/fengtony686/CCB)] [[Video](https://youtu.be/zqYiIjfJ-1I)] [[Slides](/files/ccb.pptx)]
+**The 37th AAAI Conference on Artificial Intelligence (AAAI 2023)**\\
+[[ArXiv](https://arxiv.org/abs/2206.01995)]\\
 
 [Peer Prediction for Learning Agents](/files/peer_prediction.pdf)\\
 **Shi Feng**, Fang-Yi Yu, Yiling Chen\\
-Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS) | November 2022\\
-[[Publication](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6e469fbdc43ade121170f61096f4458b-Abstract-Conference.html)] [[ArXiv Version](https://arxiv.org/abs/2208.04433)] [[Code](https://github.com/fengtony686/peer-prediction-convergence)] [[Video](https://slideslive.com/38990006)] [[Slides](/files/peer_prediction_ppt.pptx)] 
+**The 36th Conference on Neural Information Processing Systems (NeurIPS 2022)**\\
+[[ArXiv](https://arxiv.org/abs/2208.04433)]\\
 
-
-[Causal Inference for Influence Propagation - Identifiability of the Independent Cascade Model](/files/ciip.pdf)\\
+[Causal Inference for Influence Propagation -- Identifiability of the Independent Cascade Model](/files/ciip.pdf)\\
 **Shi Feng**, Wei Chen\\
-Proceedings of the 10th International Conference on Computational Social Networks (CSoNet) | November 2021\\
-🏆 Winner of the sole Best Paper Award\\
-[[Publication](https://doi.org/10.1007/978-3-030-91434-9_2)] [[ArXiv Version](https://arxiv.org/abs/2107.04224)] [[Slides](/files/CSoNet_2021_Presentation.pdf)] [[Award](/files/BestPaperAwardCSoNET2021.pdf)]
-
-[Combinatorial Causal Bandits with Unknown Graph Skeleton](/files/causal_bandits_without_graph_skeleton.pdf)\\
-**Shi Feng\***, Nuoya Xiong\*, Wei Chen\\
-In submission.\\
-[[ArXiv Version](https://arxiv.org/abs/2301.13392)] [[Code](https://github.com/fengtony686/CCB-without-Graph)]
-
-<!-- [A Truthful Multi-Agent Owner-Assisted Scoring Mechanism](/files/owner_assist.pdf)\\
-**Shi Feng\***, Zimeng Song\*, Yuhao Wang, Weijie Su\\
-In submission. -->
+**The 10th International Conference on Computational Data and Social Networks (CSoNet 2021)** | 🏆 **Best Paper Award**\\
+[[ArXiv](https://arxiv.org/abs/2107.04224)]\\
 
