@@ -23,9 +23,6 @@ I have broad research interests at the intersection of economics and computer sc
 
 Outside of research, I am an amateur landscape photographer. I enjoy capturing natural scenery and urban moments through a technical yet minimalist lens. Some of my photography work can be found on [my Xiaohongshu page](https://www.xiaohongshu.com/user/profile/6339c4e600000000180291b2).
 
-<small>This website is accelerated and secured by Cloudflare.</small>
-
-
 <!-- My name is Shi Feng (冯时). As of August 2023, I am pursuing my Ph.D. at the [Harvard John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/). I am privileged to be advised by  [Prof. Yiling Chen](https://yiling.seas.harvard.edu/). Prior to this, I earned my bachelor's degree from the [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University, commonly referred to as the Yao Class.
 I have a broad research interest in the intersection of economics and computer science. This includes topics such as algorithmic game theory, machine learning theory, causality, and network science. Recently, my focus has shifted towards understanding the theoretical foundations of large language models (LLM).
 During my undergraduate years, I was immensely fortunate to receive guidance from several kind and inspiring professors. I am deeply thankful to them:
