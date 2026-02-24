@@ -15,6 +15,4 @@ author_profile: true
 
 [Publications](https://fengshi.link/publications/)
 
-[Talks](https://fengshi.link/talks/)
-
 [Miscellaneous](https://fengshi.link/misc/)
