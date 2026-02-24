@@ -13,8 +13,6 @@ redirect_from:
 
 <!-- I was born and raised in Hubei, a central province in China, until I came to Beijing for further education. I am a fourth-year undergraduate at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, also known as the Yao Class. My research now involves algorithmic game theory, online learning, and social networks. Also, I have a broad interest in theoretical computer science, especially deep learning theory, reinforcement learning theory, and causality. -->
 
-# About me
-
 My name is Shi Feng (冯时). As of August 2023, I am pursuing my Ph.D. at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS), where I am privileged to be advised by [Prof. Yiling Chen](https://yiling.seas.harvard.edu/).
 
 Prior to this, I earned my bachelor's degree from the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University, commonly referred to as the Yao Class.
@@ -22,6 +20,8 @@ During my undergraduate years, I worked as a research intern at the Theory Cente
 
 
 I have broad research interests at the intersection of economics and computer science, including algorithmic game theory, mechanism design, information elicitation, and machine learning theory. In parallel, I am also interested in understanding the theoretical foundations of large language models (LLMs), including questions related to self-improvement, world models, and learning dynamics in multi-agent systems.
+
+Outside of research, I am an amateur landscape photographer. I enjoy capturing natural scenery and urban moments through a technical yet minimalist lens. Some of my photography work can be found on [my Xiaohongshu page](https://www.xiaohongshu.com/user/profile/6339c4e600000000180291b2).
 
 
 <!-- My name is Shi Feng (冯时). As of August 2023, I am pursuing my Ph.D. at the [Harvard John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/). I am privileged to be advised by  [Prof. Yiling Chen](https://yiling.seas.harvard.edu/). Prior to this, I earned my bachelor's degree from the [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University, commonly referred to as the Yao Class.
