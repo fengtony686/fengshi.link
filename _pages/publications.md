@@ -18,11 +18,11 @@ author_profile: true
 ## Working Papers
 
 [Contextual Procurement Auctions with Bandit Learning](https://arxiv.org/abs/2607.05813)\\
-Yiling Chen, **Shi Feng**, Sadie Zhao\\
+Yiling Chen\*, **Shi Feng\***, Sadie Zhao\*\\
 In submission to **AAAI 2027**
 
 Strategic Fine-Tuning: Learning from Human Feedback under Endogenous Supervision\\
-Russell Li\*, **Shi Feng\***, Safwan Hossain\*, Yiling Chen\*\\
+Russell Li, **Shi Feng**, Safwan Hossain, Yiling Chen\\
 In submission to **NeurIPS 2026**
 
 Information Elicitation by Ordinal Agreement\\
