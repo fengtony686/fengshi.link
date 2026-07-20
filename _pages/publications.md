@@ -15,9 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-[Peer-Predictive Self-Training for Language Model Reasoning](https://arxiv.org/abs/2604.13356)\\
-**Shi Feng\***, Hanlin Zhang\*, Fan Nie, Sham Kakade, Yiling Chen\\
-**Conference on Language Modeling (COLM 2026)**
+## Working Papers
 
 [Contextual Procurement Auctions with Bandit Learning](https://arxiv.org/abs/2607.05813)\\
 Yiling Chen, **Shi Feng**, Sadie Zhao\\
@@ -30,6 +28,12 @@ In submission to **NeurIPS 2026**
 Information Elicitation by Ordinal Agreement\\
 Yiling Chen\*, **Shi Feng\***, Grant Schoenebeck\*, Fang-Yi Yu\*\\
 In submission to **WINE 2026**
+
+## Publications
+
+[Peer-Predictive Self-Training for Language Model Reasoning](https://arxiv.org/abs/2604.13356)\\
+**Shi Feng\***, Hanlin Zhang\*, Fan Nie, Sham Kakade, Yiling Chen\\
+**Conference on Language Modeling (COLM 2026)**
 
 [Benefits and Pitfalls of Reinforcement Learning for Language Model Planning: A Theoretical Perspective](https://arxiv.org/abs/2509.22613)\\
 Siwei Wang\*, Yifei Shen\*, Haoran Sun\*, **Shi Feng\***, Shang-Hua Teng, Li Dong, Yaru Hao, Wei Chen\\
