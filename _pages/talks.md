@@ -15,6 +15,21 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
+[Data Reliability Scoring](https://arxiv.org/abs/2510.17085)\\
+ESIF-AIML 2026 | June 2026
+
+[Data Reliability Scoring](https://econcs.seas.harvard.edu/event/1-distribution-over-rewards-pluralistic-ai-alignment-2-data-reliability-scoring)\\
+Harvard EconCS Seminar | November 2025
+
+[Combinatorial Causal Bandits without Graph Skeleton](https://fengshi.link/files/causal_bandits_without_graph_skeleton.pdf)\\
+The 16th Asian Conference on Machine Learning (ACML) | December 2024
+
+[Carrot and Stick: Eliciting Comparison Data and Beyond](https://arxiv.org/abs/2410.23243)\\
+EC-24 Workshop | July 2024
+
+[ALPINE: Unveiling The Planning Capability of Autoregressive Learning in Language Models](https://econcs.seas.harvard.edu/event/reveal-planning-capability-autoregressive-learning-large-language-models-and-computing)\\
+Harvard EconCS Seminar | March 2024
+
 [Large Language Models: Current Theoretical Analysis and Future Directions](/files/msra_theory_seminar_llm.pptx)\\
 Microsoft Research Asia Theory Seminar | March 2023 
 
