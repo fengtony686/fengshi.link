@@ -17,15 +17,19 @@ author_profile: true
 
 [Peer-Predictive Self-Training for Language Model Reasoning](https://arxiv.org/abs/2604.13356)\\
 **Shi Feng\***, Hanlin Zhang\*, Fan Nie, Sham Kakade, Yiling Chen\\
-**2026 Econometric Society Interdisciplinary Frontiers Conference on Economics and AI+ML**
+**Conference on Language Modeling (COLM 2026)**
 
 [Contextual Procurement Auctions with Bandit Learning](https://arxiv.org/abs/2607.05813)\\
 Yiling Chen, **Shi Feng**, Sadie Zhao\\
-arXiv preprint, 2026
+In submission to **AAAI 2027**
+
+Strategic Fine-Tuning: Learning from Human Feedback under Endogenous Supervision\\
+Russell Li\*, **Shi Feng\***, Safwan Hossain\*, Yiling Chen\*\\
+In submission to **NeurIPS 2026**
 
 Information Elicitation by Ordinal Agreement\\
 Yiling Chen\*, **Shi Feng\***, Grant Schoenebeck\*, Fang-Yi Yu\*\\
-In submission to **EC 2026**
+In submission to **WINE 2026**
 
 [Benefits and Pitfalls of Reinforcement Learning for Language Model Planning: A Theoretical Perspective](https://arxiv.org/abs/2509.22613)\\
 Siwei Wang\*, Yifei Shen\*, Haoran Sun\*, **Shi Feng\***, Shang-Hua Teng, Li Dong, Yaru Hao, Wei Chen\\
@@ -33,7 +37,7 @@ Siwei Wang\*, Yifei Shen\*, Haoran Sun\*, **Shi Feng\***, Shang-Hua Teng, Li Don
 
 [Data Reliability Scoring](https://arxiv.org/abs/2510.17085)\\
 Yiling Chen\*, **Shi Feng\***, Paul Kattuman\*, Fang-Yi Yu\*\\
-**The Twenty-Seventh ACM Conference on Economics and Computation (EC 2026) Poster Session**
+**The Twenty-Seventh ACM Conference on Economics and Computation (EC 2026)**
 
 [Carrot and Stick: Eliciting Comparison Data and Beyond](https://arxiv.org/abs/2410.23243)\\
 Yiling Chen\*, **Shi Feng\***, Fang-Yi Yu\*\\
