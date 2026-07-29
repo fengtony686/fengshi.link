@@ -67,10 +67,6 @@ Siwei Wang\*, Yifei Shen\*, **Shi Feng**, Haoran Sun, Shang-Hua Teng, Wei Chen\\
 **Shi Feng**, Wei Chen\\
 **The 10th International Conference on Computational Data and Social Networks (CSoNet 2021)** | 🏆 [**Best Paper Award**](/files/BestPaperAwardCSoNET2021.pdf)
 
-<a href="/files/BestPaperAwardCSoNET2021.pdf">
-  <img src="/images/BestPaperAwardCSoNET2021.png" alt="CSoNet 2021 Best Paper Award certificate" style="max-width: 420px; height: auto;">
-</a>
-
 <br>
 
 <small>\* denotes equal contribution or alphabetical order</small>
