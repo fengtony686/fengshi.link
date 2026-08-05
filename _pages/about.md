@@ -15,6 +15,9 @@ redirect_from:
 
 My name is Shi Feng (冯时). As of August 2023, I am pursuing my Ph.D. at the [Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS)](https://seas.harvard.edu), where I am privileged to be advised by [Prof. Yiling Chen](https://yiling.seas.harvard.edu/).
 
+**Job Market:** I expect to graduate in Spring 2027 and am currently on the job market.
+{: .notice--primary}
+
 Prior to this, I earned my bachelor's degree from the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University, commonly referred to as the Yao Class.
 During my undergraduate years, I worked as a research intern at the [Theory Center of Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/) for two years, where I had the privilege to be advised by [Prof. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/).
 
