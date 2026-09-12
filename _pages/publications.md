@@ -25,11 +25,27 @@ Strategic Fine-Tuning: Learning from Human Feedback under Endogenous Supervision
 Russell Li, **Shi Feng**, Safwan Hossain, Yiling Chen\\
 In submission to **NeurIPS 2026**
 
-Information Elicitation by Ordinal Agreement\\
-Yiling Chen\*, **Shi Feng\***, Grant Schoenebeck\*, Fang-Yi Yu\*\\
-In submission to **WINE 2026**
+When and What to Price Against Model Extraction\\
+**Shi Feng**, Tuo Zhao, Yiling Chen\\
+Working paper
+
+MILO: Mode-wise Likelihood Optimization for Correct-Mode Coverage\\
+**Shi Feng**, Yiling Chen, Sham Kakade, Hanlin Zhang\\
+Working paper
+
+PRISMA: Dynamic Benchmarking as Mechanism Design\\
+Hanlin Zhang\*, **Shi Feng\***, David Parkes, Yiling Chen, Sham Kakade\\
+Working paper
+
+Mechanisms of Learned Invalid-Transition Detection in Autoregressive Planning\\
+**Shi Feng**, Siwei Wang, Shang-Hua Teng, Wei Chen\\
+Working paper
 
 ## Publications
+
+Information Elicitation by Ordinal Agreement\\
+Yiling Chen\*, **Shi Feng\***, Grant Schoenebeck\*, Fang-Yi Yu\*\\
+**International Conference on Web and Internet Economics (WINE 2026)**
 
 [Peer-Predictive Self-Training for Language Model Reasoning](https://arxiv.org/abs/2604.13356)\\
 **Shi Feng\***, Hanlin Zhang\*, Fan Nie, Sham Kakade, Yiling Chen\\

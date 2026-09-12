@@ -22,7 +22,7 @@ Prior to this, I earned my bachelor's degree from the [Institute for Interdiscip
 During my undergraduate years, I worked as a research intern at the [Theory Center of Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/) for two years, where I had the privilege to be advised by [Prof. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/).
 
 
-My research interests include trustworthy artificial intelligence, large language model reasoning, learning theory, and algorithmic decision-making. I study reliable learning and decision-making systems in settings with strategic, noisy, or interactive information.
+My research interests include large language model post-training and reasoning, trustworthy artificial intelligence, learning theory, and algorithmic decision-making. I study reliable post-training and decision-making methods in settings with strategic, noisy, or interactive information.
 
 Outside of research, I am a landscape photographer. I enjoy capturing natural scenery and urban moments through a technical yet minimalist lens. Some of my photography work can be found in [my iStock portfolio](https://www.istockphoto.com/portfolio/ShiFeng?mediatype=photography).
 
