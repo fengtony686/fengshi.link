@@ -21,27 +21,27 @@ author_profile: true
 Yiling Chen\*, **Shi Feng\***, Sadie Zhao\*\\
 In submission to **AAAI 2027**
 
-[Strategic Fine-Tuning: Learning from Human Feedback under Endogenous Supervision](https://sites.google.com/view/ec26-ai-alignment-workshop/home)\\
-Russell Li, **Shi Feng**, Safwan Hossain, Yiling Chen\\
-**Incentive-Based AI Alignment Workshop, EC 2026**
-
 When and What to Price Against Model Extraction\\
 **Shi Feng**, Tuo Zhao, Yiling Chen\\
-Working paper
+In submission to **ICLR 2027**
 
 MILO: Mode-wise Likelihood Optimization for Correct-Mode Coverage\\
 **Shi Feng**, Yiling Chen, Sham Kakade, Hanlin Zhang\\
-Working paper
+In submission to **ICLR 2027**
 
 PRISMA: Dynamic Benchmarking as Mechanism Design\\
 Hanlin Zhang, **Shi Feng**, David Parkes, Yiling Chen, Sham Kakade\\
-Working paper
+In submission to **ICLR 2027**
 
 Mechanisms of Learned Invalid-Transition Detection in Autoregressive Planning\\
 **Shi Feng**, Siwei Wang, Shang-Hua Teng, Wei Chen\\
 In submission to **ICLR 2027**
 
 ## Publications
+
+[Strategic Fine-Tuning: Learning from Human Feedback under Incentive Misalignment](/files/strategic_finetuning_ec26_ai_alignment.pdf)\\
+Russell Li, **Shi Feng**, Safwan Hossain, Yiling Chen\\
+**Incentive-Based AI Alignment Workshop, EC 2026** | [Workshop](https://sites.google.com/view/ec26-ai-alignment-workshop/home)
 
 Information Elicitation by Ordinal Agreement\\
 Yiling Chen\*, **Shi Feng\***, Grant Schoenebeck\*, Fang-Yi Yu\*\\
