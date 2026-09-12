@@ -39,10 +39,6 @@ In submission to **ICLR 2027**
 
 ## Publications
 
-[Strategic Fine-Tuning: Learning from Human Feedback under Incentive Misalignment](/files/strategic_finetuning_ec26_ai_alignment.pdf)\\
-Russell Li, **Shi Feng**, Safwan Hossain, Yiling Chen\\
-**Incentive-Based AI Alignment Workshop, EC 2026** | [Workshop](https://sites.google.com/view/ec26-ai-alignment-workshop/home)
-
 Information Elicitation by Ordinal Agreement\\
 Yiling Chen\*, **Shi Feng\***, Grant Schoenebeck\*, Fang-Yi Yu\*\\
 **International Conference on Web and Internet Economics (WINE 2026)**
@@ -58,6 +54,10 @@ Siwei Wang\*, Yifei Shen\*, Haoran Sun\*, **Shi Feng\***, Shang-Hua Teng, Li Don
 [Data Reliability Scoring](https://arxiv.org/abs/2510.17085)\\
 Yiling Chen\*, **Shi Feng\***, Paul Kattuman\*, Fang-Yi Yu\*\\
 **The Twenty-Seventh ACM Conference on Economics and Computation (EC 2026)**
+
+[Strategic Fine-Tuning: Learning from Human Feedback under Incentive Misalignment](/files/strategic_finetuning_ec26_ai_alignment.pdf)\\
+Russell Li, **Shi Feng**, Safwan Hossain, Yiling Chen\\
+**Incentive-Based AI Alignment Workshop, EC 2026**
 
 [Carrot and Stick: Eliciting Comparison Data and Beyond](https://arxiv.org/abs/2410.23243)\\
 Yiling Chen\*, **Shi Feng\***, Fang-Yi Yu\*\\
