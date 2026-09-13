@@ -22,7 +22,7 @@ Yiling Chen\*, **Shi Feng\***, Sadie Zhao\*\\
 In submission to **AAAI 2027**
 
 When and What to Price Against Model Extraction\\
-**Shi Feng**, Tuo Zhao, Yiling Chen\\
+**Shi Feng**, Tuo Zhao, Sadie Zhao, Yiling Chen\\
 In submission to **ICLR 2027**
 
 MILO: Mode-wise Likelihood Optimization for Correct-Mode Coverage\\
