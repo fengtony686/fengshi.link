@@ -33,7 +33,7 @@ PRISMA: Dynamic Benchmarking as Mechanism Design\\
 Hanlin Zhang, **Shi Feng**, David Parkes, Yiling Chen, Sham Kakade\\
 In submission to **ICLR 2027**
 
-Mechanisms of Learned Invalid-Transition Detection in Autoregressive Planning\\
+Internal Detection of Invalid Transitions in Transformers\\
 **Shi Feng**, Siwei Wang, Shang-Hua Teng, Wei Chen\\
 In submission to **ICLR 2027**
 
