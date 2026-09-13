@@ -30,7 +30,7 @@ MILO: Mode-wise Likelihood Optimization for Correct-Mode Coverage\\
 In submission to **ICLR 2027**
 
 PRISMA: Dynamic Benchmarking as Mechanism Design\\
-Hanlin Zhang, **Shi Feng**, David Parkes, Yiling Chen, Sham Kakade\\
+Hanlin Zhang, **Shi Feng**, Anton Tsitsulin, Vahab Mirrokni, Ariel Procaccia, Yiling Chen, David Parkes, Sham Kakade\\
 In submission to **ICLR 2027**
 
 Internal Detection of Invalid Transitions in Transformers\\
