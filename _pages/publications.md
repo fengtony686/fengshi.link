@@ -21,29 +21,29 @@ author_profile: true
 Yiling Chen\*, **Shi Feng\***, Sadie Zhao\*\\
 In submission to **AAAI 2027**
 
-When and What to Price against Model Extraction\\
+[When and What to Price against Model Extraction](/files/when_and_what_to_price_against_model_extraction.pdf)\\
 **Shi Feng**, Sadie Zhao, Tuo Zhao, Yiling Chen\\
 In submission to **ICLR 2027**
 
-MILO: Mode-wise Likelihood Optimization for Post-Training Diversity\\
+[MILO: Mode-wise Likelihood Optimization for Post-Training Diversity](/files/milo.pdf)\\
 **Shi Feng**, Yiling Chen, Sham M. Kakade, Hanlin Zhang\\
 In submission to **ICLR 2027**
 
-MOSAIC: Dynamic Benchmarking as Mechanism Design\\
-Hanlin Zhang, **Shi Feng**, Anton Tsitsulin, Vahab Mirrokni, Sham M. Kakade\\
+[MOSAIC: Dynamic Benchmarking as Mechanism Design](/files/mosaic.pdf)\\
+Hanlin Zhang, **Shi Feng**, Anton Tsitsulin, Vahab Mirrokni, Yiling Chen, Sham M. Kakade\\
 In submission to **ICLR 2027**
 
-Learning When to Abort in Transformer Planning: A Mechanistic Study\\
+[Learning When to Abort in Transformer Planning: A Mechanistic Study](/files/learning_when_to_abort.pdf)\\
 **Shi Feng**, Qimin Zhong, Siwei Wang, Yifei Shen, Shang-Hua Teng, Hao Liao, Wei Chen\\
 In submission to **ICLR 2027**
 
-Learning Incentives, Not Utilities: Certified Selection and Steering in Extensive-Form Games\\
+[Learning Incentives, Not Utilities: Certified Selection and Steering in Extensive-Form Games](/files/learning_incentives_not_utilities.pdf)\\
 **Shi Feng**, Yiling Chen, Tuo Zhao\\
 In submission to **ICLR 2027**
 
 ## Publications
 
-Information Elicitation by Ordinal Agreement\\
+[Information Elicitation by Ordinal Agreement](/files/information_elicitation_ordinal_agreement.pdf)\\
 Yiling Chen\*, **Shi Feng\***, Grant Schoenebeck\*, Fang-Yi Yu\*\\
 **International Conference on Web and Internet Economics (WINE 2026)**
 
