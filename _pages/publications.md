@@ -21,10 +21,6 @@ author_profile: true
 Yiling Chen\*, **Shi Feng\***, Sadie Zhao\*\\
 In submission to **AAAI 2027**
 
-[When and What to Price against Model Extraction](/files/when_and_what_to_price_against_model_extraction.pdf)\\
-**Shi Feng**, Sadie Zhao, Tuo Zhao, Yiling Chen\\
-In submission to **ICLR 2027**
-
 [MILO: Mode-wise Likelihood Optimization for Post-Training Diversity](/files/milo.pdf)\\
 **Shi Feng**, Yiling Chen, Sham M. Kakade, Hanlin Zhang\\
 In submission to **ICLR 2027**
@@ -35,10 +31,6 @@ In submission to **ICLR 2027**
 
 [Learning When to Abort in Transformer Planning: A Mechanistic Study](/files/learning_when_to_abort.pdf)\\
 **Shi Feng**, Qimin Zhong, Siwei Wang, Yifei Shen, Shang-Hua Teng, Hao Liao, Wei Chen\\
-In submission to **ICLR 2027**
-
-[Learning Incentives, Not Utilities: Certified Selection and Steering in Extensive-Form Games](/files/learning_incentives_not_utilities.pdf)\\
-**Shi Feng**, Yiling Chen, Tuo Zhao\\
 In submission to **ICLR 2027**
 
 ## Publications
