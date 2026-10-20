@@ -33,7 +33,7 @@ In submission to **ICLR 2027**
 Hanlin Zhang, **Shi Feng**, Anton Tsitsulin, Vahab Mirrokni, Yiling Chen, Sham M. Kakade\\
 In submission to **ICLR 2027**
 
-[Learning When to Abort in Transformer Planning: A Mechanistic Study](/files/learning_when_to_abort.pdf)\\
+[Learning When to Abort in Transformer Planning: A Mechanistic Study](https://arxiv.org/abs/2610.25300)\\
 **Shi Feng**, Qimin Zhong, Siwei Wang, Yifei Shen, Shang-Hua Teng, Hao Liao, Wei Chen\\
 In submission to **ICLR 2027**
 
