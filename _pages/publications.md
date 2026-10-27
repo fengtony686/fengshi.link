@@ -17,29 +17,29 @@ author_profile: true
 
 ## Working Papers
 
-[Contextual Procurement Auctions with Bandit Learning](https://arxiv.org/abs/2607.05813)\\
-Yiling Chen\*, **Shi Feng\***, Sadie Zhao\*\\
-In submission to **AAAI 2027**
-
-When and What to Price against Model Extraction\\
-**Shi Feng**, Sadie Zhao, Tuo Zhao, Yiling Chen\\
-In submission to **ICLR 2027**
-
 [MILO: Mode-wise Likelihood Optimization for Post-Training Diversity](/files/milo.pdf)\\
 **Shi Feng**, Yiling Chen, Sham M. Kakade, Hanlin Zhang\\
-In submission to **ICLR 2027**
-
-[MOSAIC: Dynamic Benchmarking as Mechanism Design](/files/mosaic.pdf)\\
-Hanlin Zhang, **Shi Feng**, Anton Tsitsulin, Vahab Mirrokni, Yiling Chen, Sham M. Kakade\\
-In submission to **ICLR 2027**
+Under review at **ICLR 2027**
 
 [Learning When to Abort in Transformer Planning: A Mechanistic Study](https://arxiv.org/abs/2610.25300)\\
 **Shi Feng**, Qimin Zhong, Siwei Wang, Yifei Shen, Shang-Hua Teng, Hao Liao, Wei Chen\\
-In submission to **ICLR 2027**
+Under review at **ICLR 2027**
+
+[MOSAIC: Dynamic Benchmarking as Mechanism Design](/files/mosaic.pdf)\\
+Hanlin Zhang, **Shi Feng**, Anton Tsitsulin, Vahab Mirrokni, Yiling Chen, Sham M. Kakade\\
+Under review at **ICLR 2027**
+
+[Contextual Procurement Auctions with Bandit Learning](https://arxiv.org/abs/2607.05813)\\
+Yiling Chen\*, **Shi Feng\***, Sadie Zhao\*\\
+Under review at **AAAI 2027**
+
+When and What to Price against Model Extraction\\
+**Shi Feng**, Sadie Zhao, Tuo Zhao, Yiling Chen\\
+Under review at **ICLR 2027**
 
 Learning Incentives, Not Utilities: Certified Selection and Steering in Extensive-Form Games\\
 **Shi Feng**, Yiling Chen, Tuo Zhao\\
-In submission to **ICLR 2027**
+Under review at **ICLR 2027**
 
 ## Publications
 

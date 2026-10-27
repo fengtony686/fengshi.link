@@ -13,16 +13,15 @@ redirect_from:
 
 <!-- I was born and raised in Hubei, a central province in China, until I came to Beijing for further education. I am a fourth-year undergraduate at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, also known as the Yao Class. My research now involves algorithmic game theory, online learning, and social networks. Also, I have a broad interest in theoretical computer science, especially deep learning theory, reinforcement learning theory, and causality. -->
 
-My name is Shi Feng (冯时). As of August 2023, I am pursuing my Ph.D. at the [Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS)](https://seas.harvard.edu), where I am privileged to be advised by [Prof. Yiling Chen](https://yiling.seas.harvard.edu/).
+I am Shi Feng (冯时), a Ph.D. candidate in Computer Science at [Harvard University](https://seas.harvard.edu), advised by [Prof. Yiling Chen](https://yiling.seas.harvard.edu/).
 
-**Job Market:** I expect to graduate in Spring 2027 and am currently on the job market.
+**Job Market:** I expect to graduate in Spring 2027 and am seeking research scientist positions in LLM post-training and reasoning, and in economics and computation.
 {: .notice--primary}
 
-Prior to this, I earned my bachelor's degree from the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University, commonly referred to as the Yao Class.
-During my undergraduate years, I worked as a research intern at the [Theory Center of Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/) for two years, where I had the privilege to be advised by [Prof. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/).
+I received my **B.E. with Honors in Computer Science from Tsinghua University's [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)**. Previously, I was a research intern at the [Theory Center of Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/), mentored by [Prof. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/).
 
 
-My research interests include large language model post-training and reasoning, trustworthy artificial intelligence, learning theory, and algorithmic decision-making. I study reliable post-training and decision-making methods in settings with strategic, noisy, or interactive information.
+My research focuses on **language model post-training and reasoning**: learning from limited supervision, improving the diversity of correct solutions, and understanding how models detect errors. I also study mechanism design and learning in strategic environments, including auctions, information elicitation, and AI evaluation.
 
 Outside of research, I am a landscape photographer. I enjoy capturing natural scenery and urban moments through a technical yet minimalist lens. Some of my photography work can be found in [my iStock portfolio](https://www.istockphoto.com/portfolio/ShiFeng?mediatype=photography).
 
