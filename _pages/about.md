@@ -15,7 +15,7 @@ redirect_from:
 
 I am Shi Feng (冯时), a Ph.D. candidate in Computer Science at [Harvard University](https://seas.harvard.edu), advised by [Prof. Yiling Chen](https://yiling.seas.harvard.edu/).
 
-**Job Market:** I expect to graduate in Spring 2027 and am seeking research scientist positions in LLM post-training and reasoning, and in economics and computation.
+**Job Market:** I expect to graduate in February 2027 and am seeking research scientist positions in LLM post-training and reasoning, and in economics and computation.
 {: .notice--primary}
 
 I received my **B.E. with Honors in Computer Science from Tsinghua University's [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)**. Previously, I was a research intern at the [Theory Center of Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/), mentored by [Prof. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/).
