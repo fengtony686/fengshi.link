@@ -43,7 +43,7 @@ Under review at **ICLR 2027**
 
 ## Publications
 
-[Information Elicitation by Ordinal Agreement](/files/information_elicitation_ordinal_agreement.pdf)\\
+[Information Elicitation by Ordinal Agreement](https://arxiv.org/abs/2611.08366)\\
 Yiling Chen\*, **Shi Feng\***, Grant Schoenebeck\*, Fang-Yi Yu\*\\
 **International Conference on Web and Internet Economics (WINE 2026)**
 
